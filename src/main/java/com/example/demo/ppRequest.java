@@ -1,4 +1,2 @@
-package com.example.demo;
-
-public class ppRequest {
+package com.example.demo;public class ppRequest {
 }

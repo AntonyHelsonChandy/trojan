@@ -7,9 +7,9 @@ public class GenericGridProfileRequest {
     Map<String,Object> map=new HashMap<>();
 
 
-    public String getRequestType(){
-        //return new RequestType();
-        return "UPDATE";
+    public RequestType getRequestType(){
+        return new RequestType();
+
     }
     public Map<String,Object> getCategoryMap(){
 return    map   ;

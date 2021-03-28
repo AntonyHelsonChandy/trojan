@@ -1,7 +1,8 @@
 package com.example.demo;
 
 public class RequestType {
-String UPDATE;
+    public static final RequestType UPDATE = null;
+
 
 
 }
